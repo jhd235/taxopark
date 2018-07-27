@@ -11,7 +11,9 @@ namespace taxopark;
 
 class taxopark //таксопарк
 {
-	private $vehicles; //количество машиномест
+	private $places; //количество машиномест
+	private $active_vehicles; //количество активных автомобилей
+	private $drivers; //общее количество водителей
 
 
 }
