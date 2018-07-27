@@ -1,0 +1,7 @@
+{
+  "taxopark": {
+    "places": 5,
+    "drivers": [{"name": "John", "type": "default"},
+      {"name": "Steve", "type": "pro"}]
+  }
+}
